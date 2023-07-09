@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MIMIT App</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Malout Institute of Management and Information Technology is brought up under the able guidance of Board of Governors, headed by Hon’able Technical Education Minister, Govt. of Punjab. Located in the Green Field Enclave, Malout (Punjab), the self contained campus is a beautiful academic and administrative three storied building spread over 25 acres of land which has been magnificently and aesthetically designed by the Chief Architecture of Punjab. MIMIT is the only Govt. Institute to offer both MBA and B.Tech programs in Punjab. At present, it is offering four undergraduate courses, i.e. B.Tech.-IT, CSE, ECE and ME and one postgraduate course, i.e. MBA.</string>
+</resources>
